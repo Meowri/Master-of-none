@@ -82,5 +82,7 @@ Find a VScode editor that checks linguistic grammar
 # Navigating Git and GitHub
 
 Shaky at best I am currently just looking through my bookmarked pages to find what I am looking for, I do not really know why navigation is so difficult for me, but here I am.
+
 [Helpful Youtube video](https://www.youtube.com/watch?v=_NrSWLQsDL4&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=3)
 
+[Back](./README.md)
